@@ -1,0 +1,52 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: WaniKani skippable reviews — auto-starts lessons and submits correct reviews hourly.
+
+Parameters:
+  WaniKaniApiToken:
+    Type: String
+    NoEcho: true
+    Description: Your WaniKani v2 API token.
+  SkippableIdsBucket:
+    Type: String
+    Description: S3 bucket name containing the skippable subjects CSV.
+  SkippableIdsKey:
+    Type: String
+    Default: csv/csv_subjects_skippable.csv
+    Description: S3 object key of the skippable subjects CSV.
+
+Globals:
+  Function:
+    Runtime: python3.12
+    Timeout: 300        # 5 minutes — allows for rate-limit waits
+    MemorySize: 128
+
+Resources:
+  SkippableReviewsFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: wanikani-skippable-reviews
+      Handler: handler.lambda_handler
+      CodeUri: .
+      Description: Starts skippable lesson assignments and submits correct reviews.
+      Environment:
+        Variables:
+          WANIKANI_API_TOKEN: !Ref WaniKaniApiToken
+          SKIPPABLE_IDS_BUCKET: !Ref SkippableIdsBucket
+          SKIPPABLE_IDS_KEY: !Ref SkippableIdsKey
+      Policies:
+        - S3ReadPolicy:
+            BucketName: !Ref SkippableIdsBucket
+      Events:
+        HourlySchedule:
+          Type: ScheduleV2
+          Properties:
+            Name: wanikani-skippable-reviews-hourly
+            ScheduleExpression: "cron(1 * * * ? *)"
+            Description: Run at 1 minute past every hour.
+
+Outputs:
+  FunctionName:
+    Value: !Ref SkippableReviewsFunction
+  FunctionArn:
+    Value: !GetAtt SkippableReviewsFunction.Arn

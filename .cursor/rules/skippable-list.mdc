@@ -1,0 +1,49 @@
+---
+description: How to add items to the WaniKani skippable list and sync to S3
+alwaysApply: true
+---
+
+# Adding Items to the Skippable List
+
+When the user asks to add kanji, vocab, radicals, or any subjects to the skippable list:
+
+## Workflow
+
+1. **Look up the subject** in `csv/csv_subjects.csv` by `name` (Japanese) or `english_name`
+2. **Append the matching row(s)** to `csv/csv_subjects_skippable.csv` (same columns, no duplicates)
+3. **Sync to S3**:
+   ```powershell
+   aws s3 cp csv\csv_subjects_skippable.csv s3://wanikani-assistant-emily/csv/csv_subjects_skippable.csv
+   ```
+4. **Confirm** how many items were added and what their `item_id`, `name`, and `english_name` are
+
+## CSV columns (must match exactly)
+
+```
+item_id, srs_stage_group, level, name, reading, english_name, type, srs_stage, document_url
+```
+
+File is UTF-8 with BOM (`utf-8-sig`). Always open with `encoding="utf-8-sig"`.
+
+## Example lookup (Python one-liner)
+
+```powershell
+python -c "
+import csv, io, sys
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+term = '痛'
+with open('csv/csv_subjects.csv', encoding='utf-8-sig') as f:
+    for row in csv.DictReader(f):
+        if term in (row['name'], row['english_name']):
+            print(row)
+"
+```
+
+## Key facts
+
+- S3 bucket: `wanikani-assistant-emily` (us-east-1)
+- S3 key: `csv/csv_subjects_skippable.csv`
+- Lambda reads from S3 on every run — no redeployment needed after updating the CSV
+- Lambda runs at **HH:01 every hour** (EventBridge cron `1 * * * ? *`)
+- For stage-0 items (lesson queue), the Lambda calls `PUT /assignments/{id}/start`
+- For open reviews, it calls `POST /reviews` with 0 incorrect answers
