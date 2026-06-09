@@ -4,7 +4,7 @@ Personal tooling for managing WaniKani reviews and lesson queue.
 
 ## Overview
 
-- **`local_scripts/`** — Python scripts for pulling data from the WaniKani API into CSV files for local analysis
+- **`local_scripts/`** — Python scripts for pulling data from the WaniKani API and running one-off review actions locally
 - **`lambda/`** — AWS Lambda function that automatically advances skippable items and submits correct reviews, running hourly
 
 ## Setup
@@ -48,6 +48,24 @@ python local_scripts/fetch_open_reviews.py
 ```
 
 Columns: `item_id, srs_stage_group, level, name, reading, english_name, type, srs_stage, document_url`
+
+### `start_lessons_urls.py`
+
+Starts lessons for subjects you pass as WaniKani URLs. Skips anything already at SRS stage 1+ (lesson already started). Runs locally against the API — nothing is uploaded to S3 or Lambda.
+
+```powershell
+# Preview first
+python local_scripts/start_lessons_urls.py --dry-run --file urls.txt
+
+# Run for real
+python local_scripts/start_lessons_urls.py --file urls.txt
+```
+
+`urls.txt` is one URL per line (`#` comments allowed). You can also pass URLs directly on the command line.
+
+Output status per item:
+- **done** — lesson started
+- **skip** — lesson already started, or not unlocked
 
 ---
 
