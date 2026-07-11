@@ -1,0 +1,74 @@
+---
+description: How to add WaniKani items to the review queue (run once) without skippable
+alwaysApply: true
+---
+
+# Run Once / Add to Review Queue
+
+When the user asks to **add to the review queue**, **run once**, **start lessons**, or similar — and does **not** ask to make items skippable:
+
+## Goal
+
+Start the lesson (`PUT /assignments/{id}/start`) so the item moves from lessons → review queue (SRS stage 0 → 1). Do **not** add to `csv/csv_subjects_skippable.csv`. Do **not** sync S3.
+
+## Prefer this script
+
+```powershell
+/usr/local/bin/python3.11 local_scripts/start_lessons_urls.py URL [URL ...]
+```
+
+Use `submit_reviews_urls.py` only if the user explicitly wants a correct review submitted (often fails with 422 until `available_at` passes — lesson start still succeeds).
+
+## Always include the pending backlog
+
+On the **first** “add to review queue / run once” request in a turn (or when processing any such URLs), also process every URL still listed in:
+
+`csv/pending_unlock_run_once_to_start_reviews.csv`
+
+Combine user URLs + pending URLs in one `start_lessons_urls.py` run when practical.
+
+## Not unlocked yet
+
+If an item has no assignment (script reports skip / not unlocked):
+
+1. Look up `item_id`, `name`, `reading`, `english_name`, `type`, `level` via API (or subjects CSV if present)
+2. Append a row to `csv/pending_unlock_run_once_to_start_reviews.csv` (no duplicates by `item_id`)
+3. Columns: `requested_at,document_url,item_id,name,reading,english_name,type,level,status`
+4. Use today’s date for `requested_at` and `status=not_unlocked`
+5. Tell the user it was queued for later
+
+## After successful starts
+
+For every item that is now in the review queue (lesson started or already stage 1+):
+
+1. **Remove** matching rows (`item_id` or `document_url`) from `csv/pending_unlock_run_once_to_start_reviews.csv`
+2. **Update** `csv/kanji_missing_vocab_L1-60.txt` (see below)
+3. Confirm which were started vs already started vs still pending
+
+## Update `csv/kanji_missing_vocab_L1-60.txt`
+
+After any successful start (or skip because already stage 1+), keep this report in sync:
+
+1. For each started vocab, take its **kanji characters** (ignore kana/okurigana; for multi-kanji words, check each kanji)
+2. If that kanji appears in `csv/kanji_missing_vocab_L1-60.txt`, **remove** its entry (the kanji line + the following `https://www.wanikani.com/kanji/...` line)
+3. Fix that level’s header count (`N kanji with no vocab...`)
+4. If a level section becomes empty, remove the whole `=== Level N ===` block
+5. Fix the final `Total across levels 1–60: N kanji...` count
+
+Only remove kanji that the started vocab covers as related practice (characters in the vocab). Do not regenerate the whole file unless the user asks — edit in place.
+
+## Phrase split (important)
+
+| User says | Do this |
+|-----------|---------|
+| add to review queue / run once | Start lesson only; **not** skippable |
+| run once, then skip / start then skippable | Start lesson **and** follow `.cursor/rules/skippable-list.mdc` |
+| add to skippable (no “run once”) | Skippable rule only; Lambda will start later |
+
+## Confirm to the user
+
+- What started (name + that it’s stage 1 / in review queue)
+- What was already started
+- What was added to the pending CSV (still locked)
+- Which kanji were removed from `kanji_missing_vocab_L1-60.txt` (if any)
+- That nothing was added to the skippable list (unless they also asked for that)

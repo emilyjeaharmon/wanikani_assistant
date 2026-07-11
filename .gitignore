@@ -1,5 +1,5 @@
 credentials.json
-csv/
 __pycache__/
 lambda/.aws-sam/
 lambda/samconfig.toml
+trash/

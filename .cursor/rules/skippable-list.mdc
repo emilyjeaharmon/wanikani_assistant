@@ -7,6 +7,13 @@ alwaysApply: true
 
 When the user asks to add kanji, vocab, radicals, or any subjects to the skippable list:
 
+## Auto-review behavior (Lambda)
+
+- **Skippable list:** always auto-start lessons and auto-pass reviews at every SRS stage.
+- **Radicals not on the list:** auto-start and auto-pass only while SRS stage &lt; 5 (before Guru) **at your current level**. After Guru, normal reviews only.
+- **Kanji not on the list:** auto-start lessons only while stage 0 **at your current level**. Reviews are normal unless skippable.
+- **Kanji/vocab not on the list (other levels):** never auto-handled.
+
 ## Workflow
 
 1. **Look up the subject** in `csv/csv_subjects.csv` by `name` (Japanese) or `english_name`
@@ -45,5 +52,6 @@ with open('csv/csv_subjects.csv', encoding='utf-8-sig') as f:
 - S3 key: `csv/csv_subjects_skippable.csv`
 - Lambda reads from S3 on every run — no redeployment needed after updating the CSV
 - Lambda runs at **HH:01 every hour** (EventBridge cron `1 * * * ? *`)
-- For stage-0 items (lesson queue), the Lambda calls `PUT /assignments/{id}/start`
-- For open reviews, it calls `POST /reviews` with 0 incorrect answers
+- For stage-0 items in the auto set, the Lambda calls `PUT /assignments/{id}/start`
+- For open reviews in the auto set, it calls `POST /reviews` with 0 incorrect answers
+- Redeploy Lambda (`sam build && sam deploy` in `lambda/`) after changing `handler.py`
