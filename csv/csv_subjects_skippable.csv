@@ -1,0 +1,287 @@
+item_id,level,name,reading,english_name,type,srs_stage_group,srs_stage,document_url,reason_skipped
+308,27,farming,,Farming,radical,,3,https://www.wanikani.com/radicals/farming,known
+309,27,rake,,Rake,radical,,3,https://www.wanikani.com/radicals/rake,known
+310,27,substitute,,Substitute,radical,,3,https://www.wanikani.com/radicals/substitute,known
+311,27,change,,Change,radical,,3,https://www.wanikani.com/radicals/change,known
+312,27,peoples,,Peoples,radical,,3,https://www.wanikani.com/radicals/peoples,known
+313,27,surplus,,Surplus,radical,,3,https://www.wanikani.com/radicals/surplus,known
+331,27,call,,Call,radical,,3,https://www.wanikani.com/radicals/call,known
+332,27,exit,,Exit,radical,,3,https://www.wanikani.com/radicals/exit,known
+1318,27,痛,,Pain,kanji,,3,https://www.wanikani.com/kanji/%E7%97%9B,known
+1330,27,怒,,Angry,kanji,,3,https://www.wanikani.com/kanji/%E6%80%92,known
+1337,27,靴,,Shoes,kanji,,,https://www.wanikani.com/kanji/%E9%9D%B4,known
+3637,14,お願いします,おねがいします,Please Help Me,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99,known
+3678,14,女性,じょせい,Female,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%A5%B3%E6%80%A7,known
+3681,15,技,わざ,Technique,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%8A%80,known
+3689,14,望む,のぞむ,To Wish,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%9C%9B%E3%82%80,known
+3695,14,束,たば,Bundle,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%9D%9F,known
+3697,14,松,まつ,Pine,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%9D%BE,known
+3710,14,料理,りょうり,Cooking,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%96%99%E7%90%86,known
+3719,14,約,やく,About,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%B4%84,known
+3728,14,骨,ほね,Bone,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%AA%A8,known
+3729,15,仏,ほとけ,Buddha,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E4%BB%8F,known
+3732,15,信じる,しんじる,To Believe,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E4%BF%A1%E3%81%98%E3%82%8B,known
+3740,15,区,く,District,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%8C%BA,known
+3746,15,坂,さか,Slope,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%9D%82,known
+3747,15,変,へん,Strange,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%A4%89,known
+3753,15,夫,おっと,Husband,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%A4%AB,known
+3754,15,岩,いわ,Boulder,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%B2%A9,known
+3755,15,帰る,かえる,To Return Home,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%B8%B0%E3%82%8B,known
+3758,15,式,しき,Ceremony,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%BC%8F,known
+3759,15,春,はる,Spring,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%98%A5,known
+3768,15,毒,どく,Poison,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%AF%92,known
+3820,16,品,しな,Article,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%93%81,known
+3838,16,急ぐ,いそぐ,To Hurry,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%80%A5%E3%81%90,known
+3843,16,書く,かく,To Write,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%9B%B8%E3%81%8F,known
+3856,16,笑う,わらう,To Laugh,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%AC%91%E3%81%86,known
+3859,16,箱,はこ,Box,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%AE%B1,known
+3860,16,荷物,にもつ,Luggage,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%8D%B7%E7%89%A9,known
+3861,16,証,あかし,Evidence,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%A8%BC,known
+3881,14,消える,きえる,To Disappear,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%B6%88%E3%81%88%E3%82%8B,known
+3964,17,原因,げんいん,Cause,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%8E%9F%E5%9B%A0,known
+3971,17,塩,しお,Salt,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%A1%A9,known
+3978,17,席,せき,Seat,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%B8%AD,known
+3988,17,幻,まぼろし,Illusion,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%B9%BB,known
+3991,17,底,そこ,Bottom,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%BA%95,known
+3997,17,恋,こい,Love,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%81%8B,known
+3999,17,愛,あい,Love,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%84%9B,known
+4015,17,梅,うめ,Ume,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%A2%85,known
+4037,17,説明,せつめい,Explanation,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%AA%AC%E6%98%8E,known
+4044,17,警察,けいさつ,Police,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%AD%A6%E5%AF%9F,known
+4065,18,借りる,かりる,To Borrow,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%80%9F%E3%82%8A%E3%82%8B,known
+4102,18,忘れる,わすれる,To Forget,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%BF%98%E3%82%8C%E3%82%8B,known
+4136,18,胸,むね,Chest,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%83%B8,known
+4137,18,脳,のう,Brain,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%84%B3,known
+4151,18,友達,ともだち,Friend,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%8F%8B%E9%81%94,known
+4215,19,歴史,れきし,History,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%AD%B4%E5%8F%B2,known
+4226,19,続く,つづく,To Continue,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%B6%9A%E3%81%8F,known
+4228,19,舌,した,Tongue,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%88%8C,known
+4230,19,若い,わかい,Young,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%8B%A5%E3%81%84,known
+4283,20,嫌,いや,Dislike,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%AB%8C,known
+4358,19,笛,ふえ,Flute,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%AC%9B,known
+4494,22,罰,ばつ,Penalty,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%BD%B0,known
+4507,22,宮,みや,Imperial Palace,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%AE%AE,known
+4544,22,藤,ふじ,Wisteria,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%97%A4,known
+4548,22,値,あたい,Value,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%80%A4,known
+4558,22,姿,すがた,Figure,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%A7%BF,known
+4619,23,崎,さき,Cape,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%B4%8E,known
+4632,23,優しい,やさしい,Gentle,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%84%AA%E3%81%97%E3%81%84,known
+4649,23,城,しろ,Castle,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%9F%8E,known
+4703,24,型,かた,Model,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%9E%8B,known
+4718,24,管,くだ,Pipe,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%AE%A1,known
+4726,24,量,りょう,Quantity,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%87%8F,known
+4729,24,境,さかい,Boundary,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%A2%83,known
+4736,24,質,しつ,Quality,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%B3%AA,known
+4737,24,質問,しつもん,Question,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%B3%AA%E5%95%8F,known
+4761,24,株,かぶ,Stock,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%A0%AA,known
+4781,25,票,ひょう,Ballot,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%A5%A8,known
+4922,26,我,われ,I,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%88%91,known
+4940,26,汗,,Sweat,vocabulary,,2,https://www.wanikani.com/vocabulary/%E6%B1%97,known
+4955,26,獣,けもの,Beast,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%8D%A3,known
+4962,26,筆,ふで,Writing Brush,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%AD%86,known
+4991,26,鉛,なまり,Lead,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%89%9B,known
+5927,15,払う,はらう,To Pay,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%89%95%E3%81%86,known
+6529,25,衣,ころも,Clothes,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%A1%A3,known
+7278,15,丈,たけ,Height,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E4%B8%88,known
+7505,26,故,ゆえ,Reason,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%95%85,known
+7539,14,性,せい,Gender,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%80%A7,known
+7542,15,軍,ぐん,Army,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%BB%8D,known
+7543,15,列,れつ,Line,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%88%97,known
+7544,15,伝,つて,Intermediary,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E4%BC%9D,known
+7545,16,急,きゅう,Sudden,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%80%A5,known
+7546,17,兵,へい,Soldier,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%85%B5,known
+7547,17,無理,むり,Impossible,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E7%84%A1%E7%90%86,known
+7548,17,側,そば,Side,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%81%B4,known
+7553,20,機,き,Machine,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%A9%9F,known
+7653,24,額,がく,Framed Picture,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%A1%8D,known
+7756,16,門,もん,Gate,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%96%80,known
+9452,5,rib-cage,,Rib Cage,radical,,5,https://www.wanikani.com/radicals/rib-cage,known
+9457,21,餌,えさ,Feed,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%A4%8C,known
+3896,Initiation,15,食べ放題,たべほうだい,All You Can Eat,vocabulary,0,https://www.wanikani.com/vocabulary/%E9%A3%9F%E3%81%B9%E6%94%BE%E9%A1%8C,
+3929,Initiation,16,卒業する,そつぎょうする,To Graduate,vocabulary,0,https://www.wanikani.com/vocabulary/%E5%8D%92%E6%A5%AD%E3%81%99%E3%82%8B,
+8954,Initiation,14,温まる,あたたまる,To Warm Up,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%B8%A9%E3%81%BE%E3%82%8B,
+3656,Initiation,14,一例,いちれい,Instance,vocabulary,0,https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BE%8B,
+2514,Enlightened,2,女子,じょし,Girl,vocabulary,8,https://www.wanikani.com/vocabulary/%E5%A5%B3%E5%AD%90,
+3882,Initiation,14,気持ち悪い,きもちわるい,Bad Feeling,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%B0%97%E6%8C%81%E3%81%A1%E6%82%AA%E3%81%84,
+7585,Initiation,14,深さ,ふかさ,Depth,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%B7%B1%E3%81%95,
+3913,Initiation,14,卒業,そつぎょう,Graduation,vocabulary,0,https://www.wanikani.com/vocabulary/%E5%8D%92%E6%A5%AD,
+6799,Initiation,14,俺ら,おれら,We,vocabulary,0,https://www.wanikani.com/vocabulary/%E4%BF%BA%E3%82%89,
+3895,Initiation,15,飲み放題,のみほうだい,All You Can Drink,vocabulary,0,https://www.wanikani.com/vocabulary/%E9%A3%B2%E3%81%BF%E6%94%BE%E9%A1%8C,
+3786,Initiation,15,英文,えいぶん,English Writing,vocabulary,0,https://www.wanikani.com/vocabulary/%E8%8B%B1%E6%96%87,
+3784,Initiation,15,英語,えいご,English Language,vocabulary,0,https://www.wanikani.com/vocabulary/%E8%8B%B1%E8%AA%9E,
+3765,Initiation,15,今晩は,こんばんは,Good Evening,vocabulary,0,https://www.wanikani.com/vocabulary/%E4%BB%8A%E6%99%A9%E3%81%AF,
+6809,Initiation,15,〜匹,ひき,Small Animal Counter,vocabulary,0,https://www.wanikani.com/vocabulary/%E3%80%9C%E5%8C%B9,
+3767,Initiation,15,晴れる,はれる,To Clear Up,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%99%B4%E3%82%8C%E3%82%8B,
+3905,Initiation,15,練習する,れんしゅうする,To Practice,vocabulary,0,https://www.wanikani.com/vocabulary/%E7%B7%B4%E7%BF%92%E3%81%99%E3%82%8B,
+3789,Initiation,15,時計,とけい,Watch,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%99%82%E8%A8%88,
+3829,Initiation,16,留守,るす,Absence,vocabulary,0,https://www.wanikani.com/vocabulary/%E7%95%99%E5%AE%88,
+3835,Initiation,16,弁当,べんとう,Bento,vocabulary,0,https://www.wanikani.com/vocabulary/%E5%BC%81%E5%BD%93,
+7469,Initiation,16,自動車,じどうしゃ,Automobile,vocabulary,0,https://www.wanikani.com/vocabulary/%E8%87%AA%E5%8B%95%E8%BB%8A,
+3865,Initiation,16,辞書,じしょ,Dictionary,vocabulary,0,https://www.wanikani.com/vocabulary/%E8%BE%9E%E6%9B%B8,
+3948,Initiation,16,曜日,ようび,Day Of The Week,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%9B%9C%E6%97%A5,
+3914,Initiation,16,卒業式,そつぎょうしき,Graduation Ceremony,vocabulary,0,https://www.wanikani.com/vocabulary/%E5%8D%92%E6%A5%AD%E5%BC%8F,
+3878,Initiation,16,面白い,おもしろい,Interesting,vocabulary,0,https://www.wanikani.com/vocabulary/%E9%9D%A2%E7%99%BD%E3%81%84,
+5618,Initiation,16,閉める,しめる,To Close Something,vocabulary,0,https://www.wanikani.com/vocabulary/%E9%96%89%E3%82%81%E3%82%8B,
+3720,Initiation,16,約束する,やくそくする,To Promise,vocabulary,0,https://www.wanikani.com/vocabulary/%E7%B4%84%E6%9D%9F%E3%81%99%E3%82%8B,
+4024,Initiation,17,無料,むりょう,Free,vocabulary,0,https://www.wanikani.com/vocabulary/%E7%84%A1%E6%96%99,
+3941,Initiation,17,願い事,ねがいごと,One's Wish,vocabulary,0,https://www.wanikani.com/vocabulary/%E9%A1%98%E3%81%84%E4%BA%8B,
+7704,Initiation,18,辞書形,じしょけい,Dictionary Form,vocabulary,0,https://www.wanikani.com/vocabulary/%E8%BE%9E%E6%9B%B8%E5%BD%A2,
+4077,Initiation,18,可愛い,かわいい,Cute,vocabulary,0,https://www.wanikani.com/vocabulary/%E5%8F%AF%E6%84%9B%E3%81%84,
+7454,Initiation,18,〜枚,まい,Flat Object Counter,vocabulary,0,https://www.wanikani.com/vocabulary/%E3%80%9C%E6%9E%9A,
+4110,Initiation,18,五枚,ごまい,Five Flat Objects,vocabulary,0,https://www.wanikani.com/vocabulary/%E4%BA%94%E6%9E%9A,
+4144,Initiation,18,訓読み,くんよみ,Kun'yomi,vocabulary,0,https://www.wanikani.com/vocabulary/%E8%A8%93%E8%AA%AD%E3%81%BF,
+4056,Initiation,18,月曜日,げつようび,Monday,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%9C%88%E6%9B%9C%E6%97%A5,
+4054,Initiation,18,土曜日,どようび,Saturday,vocabulary,0,https://www.wanikani.com/vocabulary/%E5%9C%9F%E6%9B%9C%E6%97%A5,
+4055,Initiation,18,日曜日,にちようび,Sunday,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%97%A5%E6%9B%9C%E6%97%A5,
+4057,Initiation,18,木曜日,もくようび,Thursday,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%9C%A8%E6%9B%9C%E6%97%A5,
+8997,Initiation,18,苛める,いじめる,To Bully,vocabulary,0,https://www.wanikani.com/vocabulary/%E8%8B%9B%E3%82%81%E3%82%8B,
+5845,Initiation,18,閉まる,しまる,To Close,vocabulary,0,https://www.wanikani.com/vocabulary/%E9%96%89%E3%81%BE%E3%82%8B,
+4058,Initiation,18,水曜日,すいようび,Wednesday,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%B0%B4%E6%9B%9C%E6%97%A5,
+4173,Initiation,19,一冊,いっさつ,One Book,vocabulary,0,https://www.wanikani.com/vocabulary/%E4%B8%80%E5%86%8A,
+6811,Initiation,19,一匹,いっぴき,One Small Animal,vocabulary,0,https://www.wanikani.com/vocabulary/%E4%B8%80%E5%8C%B9,
+4349,Initiation,19,警察署,けいさつしょ,Police Station,vocabulary,0,https://www.wanikani.com/vocabulary/%E8%AD%A6%E5%AF%9F%E7%BD%B2,
+4184,Initiation,19,警官,けいかん,Police Officer,vocabulary,0,https://www.wanikani.com/vocabulary/%E8%AD%A6%E5%AE%98,
+4183,Initiation,19,宇宙,うちゅう,Outer Space,vocabulary,0,https://www.wanikani.com/vocabulary/%E5%AE%87%E5%AE%99,
+4195,Initiation,19,生徒,せいと,Student,vocabulary,0,https://www.wanikani.com/vocabulary/%E7%94%9F%E5%BE%92,
+4171,Initiation,19,三冊,さんさつ,Three Books,vocabulary,0,https://www.wanikani.com/vocabulary/%E4%B8%89%E5%86%8A,
+4220,Initiation,19,混ぜる,まぜる,To Mix Something,vocabulary,0,https://www.wanikani.com/vocabulary/%E6%B7%B7%E3%81%9C%E3%82%8B,
+4296,Initiation,20,飛行機,ひこうき,Airplane,vocabulary,0,https://www.wanikani.com/vocabulary/%E9%A3%9B%E8%A1%8C%E6%A9%9F,
+8829,31,guy,,Guy,radical,,,https://www.wanikani.com/radicals/guy,known
+341,32,same,,Same,radical,,,https://www.wanikani.com/radicals/same,known
+343,32,certain,,Certain,radical,,,https://www.wanikani.com/radicals/certain,known
+346,33,inside,,Inside,radical,,,https://www.wanikani.com/radicals/inside,known
+344,33,interval,,Interval,radical,,,https://www.wanikani.com/radicals/interval,known
+382,33,wide,,Wide,radical,,,https://www.wanikani.com/radicals/wide,known
+349,34,member,,Member,radical,,,https://www.wanikani.com/radicals/member,known
+359,36,departure,,Departure,radical,,,https://www.wanikani.com/radicals/departure,known
+360,36,sweet,,Sweet,radical,,,https://www.wanikani.com/radicals/sweet,known
+364,37,prize,,Prize,radical,,,https://www.wanikani.com/radicals/prize,known
+366,37,violence,,Violence,radical,,,https://www.wanikani.com/radicals/violence,known
+371,38,have,,Have,radical,,,https://www.wanikani.com/radicals/have,known
+369,38,prefecture,,Prefecture,radical,,,https://www.wanikani.com/radicals/prefecture,known
+368,38,think,,Think,radical,,,https://www.wanikani.com/radicals/think,known
+372,38,tooth,,Tooth,radical,,,https://www.wanikani.com/radicals/tooth,known
+373,39,buddy,,Buddy,radical,,,https://www.wanikani.com/radicals/buddy,known
+376,39,hill,,Hill,radical,,,https://www.wanikani.com/radicals/hill,known
+413,39,reality,,Reality,radical,,,https://www.wanikani.com/radicals/reality,known
+414,39,scroll,,Scroll,radical,,,https://www.wanikani.com/radicals/scroll,known
+370,39,sky,,Sky,radical,,,https://www.wanikani.com/radicals/sky,known
+377,39,three,,Three,radical,,,https://www.wanikani.com/radicals/three,known
+379,40,every,,Every,radical,,,https://www.wanikani.com/radicals/every,known
+380,40,preserve,,Preserve,radical,,,https://www.wanikani.com/radicals/preserve,known
+8833,40,rejoice,,Rejoice,radical,,,https://www.wanikani.com/radicals/rejoice,known
+325,29,above,,Above,radical,,,https://www.wanikani.com/radicals/above,known
+322,29,district,,District,radical,,,https://www.wanikani.com/radicals/district,known
+8856,41,wife,,Wife,radical,,,https://www.wanikani.com/radicals/wife,known
+385,42,bone,,Bone,radical,,,https://www.wanikani.com/radicals/bone,known
+387,42,shop,,Shop,radical,,,https://www.wanikani.com/radicals/shop,known
+416,44,wind,,Wind,radical,,,https://www.wanikani.com/radicals/wind,known
+397,45,renew,,Renew,radical,,,https://www.wanikani.com/radicals/renew,known
+396,45,protect,,Protect,radical,,,https://www.wanikani.com/radicals/protect,known
+402,47,wave,,Wave,radical,,,https://www.wanikani.com/radicals/wave,known
+404,48,form,,Form,radical,,,https://www.wanikani.com/radicals/form,known
+405,48,light,,Light,radical,,,https://www.wanikani.com/radicals/light,known
+406,49,times,,Times,radical,,,https://www.wanikani.com/radicals/times,known
+409,50,name,,Name,radical,,,https://www.wanikani.com/radicals/name,known
+432,51,stomach,,Stomach,radical,,,https://www.wanikani.com/radicals/stomach,known
+438,53,tall,,Tall,radical,,,https://www.wanikani.com/radicals/tall,known
+8832,55,doubt,,Doubt,radical,,,https://www.wanikani.com/radicals/doubt,known
+423,55,feeling,,Feeling,radical,,,https://www.wanikani.com/radicals/feeling,known
+436,59,below,,Below,radical,,,https://www.wanikani.com/radicals/below,known
+1350,28,冷,れい,Cool,kanji,,,https://www.wanikani.com/kanji/%E5%86%B7,known
+1375,28,傘,かさ,Umbrella,kanji,,,https://www.wanikani.com/kanji/%E5%82%98,known
+1388,29,韓,かん,Korea,kanji,,,https://www.wanikani.com/kanji/%E9%9F%93,known
+1417,30,遊,ゆう,Play,kanji,,,https://www.wanikani.com/kanji/%E9%81%8A,known
+4498,22,誕生,たんじょう,Birth,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%AA%95%E7%94%9F,known
+4509,22,各〜,かく,Each,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%90%84%E3%80%9C,known
+4491,22,寝坊,ねぼう,Oversleeping,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%AF%9D%E5%9D%8A,known
+4680,24,日本製,にほんせい,Made In Japan,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%97%A5%E6%9C%AC%E8%A3%BD,known
+6996,25,涼しい,すずしい,Cool,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%B6%BC%E3%81%97%E3%81%84,known
+4779,25,響く,ひびく,To Echo,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%9F%BF%E3%81%8F,known
+4767,25,頑張る,がんばる,To Persevere,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%A0%91%E5%BC%B5%E3%82%8B,known
+4969,26,お誕生日おめでとう,おたんじょうびおめでとう,Happy Birthday,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E3%81%8A%E8%AA%95%E7%94%9F%E6%97%A5%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86,known
+5098,27,靴,くつ,Shoes,vocabulary,,,https://www.wanikani.com/vocabulary/%E9%9D%B4,known
+5058,27,眠い,ねむい,Sleepy,vocabulary,,,https://www.wanikani.com/vocabulary/%E7%9C%A0%E3%81%84,known
+5100,27,靴屋,くつや,Shoe Store,vocabulary,,,https://www.wanikani.com/vocabulary/%E9%9D%B4%E5%B1%8B,known
+5033,27,暇,ひま,Spare Time,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%9A%87,known
+5047,27,階段,かいだん,Stairs,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%9A%8E%E6%AE%B5,known
+8718,27,胃,い,Stomach,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%83%83,known
+5082,27,貸す,かす,To Lend,vocabulary,,,https://www.wanikani.com/vocabulary/%E8%B2%B8%E3%81%99,known
+5121,28,冷たい,つめたい,Cold,vocabulary,,,https://www.wanikani.com/vocabulary/%E5%86%B7%E3%81%9F%E3%81%84,known
+5115,28,傘,かさ,Umbrella,vocabulary,,,https://www.wanikani.com/vocabulary/%E5%82%98,known
+5294,29,韓国,かんこく,South Korea,vocabulary,,,https://www.wanikani.com/vocabulary/%E9%9F%93%E5%9B%BD,known
+5361,30,背,せ,Height,vocabulary,,,https://www.wanikani.com/vocabulary/%E8%83%8C,known
+7773,30,押し,おし,Push,vocabulary,,,https://www.wanikani.com/vocabulary/%E6%8A%BC%E3%81%97,known
+8908,28,front,,Front,radical,,,https://www.wanikani.com/radicals/front,known
+317,28,specialty,,Specialty,radical,,,https://www.wanikani.com/radicals/specialty,known
+9346,26,針,はり,Needle,vocabulary,Guru,5,https://www.wanikani.com/vocabulary/%E9%87%9D,known
+4942,26,河,かわ,River,vocabulary,Guru,5,https://www.wanikani.com/vocabulary/%E6%B2%B3,known
+4584,23,バス停,ばすてい,Bus Stop,vocabulary,Guru,5,https://www.wanikani.com/vocabulary/%E3%83%90%E3%82%B9%E5%81%9C,known
+4309,21,産む,うむ,To Give Birth,vocabulary,Guru,5,https://www.wanikani.com/vocabulary/%E7%94%A3%E3%82%80,known
+4654,24,違い,ちがい,Difference,vocabulary,Guru,6,https://www.wanikani.com/vocabulary/%E9%81%95%E3%81%84,known
+4655,24,違う,ちがう,To Be Different,vocabulary,Guru,6,https://www.wanikani.com/vocabulary/%E9%81%95%E3%81%86,known
+4882,26,間違い,まちがい,A Mistake,vocabulary,Guru,5,https://www.wanikani.com/vocabulary/%E9%96%93%E9%81%95%E3%81%84,known
+5192,28,お菓子屋,おかしや,Candy Store,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E3%81%8A%E8%8F%93%E5%AD%90%E5%B1%8B,known
+5130,28,券,けん,Ticket,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E5%88%B8,known
+5142,28,妙,みょう,Peculiar,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E5%A6%99,known
+6734,28,沼,ぬま,Bog,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E6%B2%BC,known
+5198,28,逆,ぎゃく,Reverse,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E9%80%86,known
+5223,29,娘,むすめ,Daughter,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E5%A8%98,known
+5074,29,腹,はら,Belly,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E8%85%B9,known
+5224,29,一人娘,ひとりむすめ,Only Daughter,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E4%B8%80%E4%BA%BA%E5%A8%98,known
+5233,29,怖い,こわい,Scary,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%80%96%E3%81%84,known
+5239,29,三杯,さんばい,Three Cups,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E4%B8%89%E6%9D%AF,known
+5238,29,二杯,にはい,Two Cups,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E4%BA%8C%E6%9D%AF,known
+3712,14,日本的,にほんてき,Very Japanese,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%97%A5%E6%9C%AC%E7%9A%84,known
+3788,15,英和,えいわ,English Japanese,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E8%8B%B1%E5%92%8C,known
+3774,15,文法,ぶんぽう,Grammar,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%96%87%E6%B3%95,known
+6810,15,四匹,よんひき,Four Small Animals,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%9B%9B%E5%8C%B9,known
+3772,15,毒ガス,どくがす,Poison Gas,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%AF%92%E3%82%AC%E3%82%B9,known
+3858,16,ゴミ箱,ごみばこ,Garbage Can,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E3%82%B4%E3%83%9F%E7%AE%B1,known
+3970,17,食堂,しょくどう,Cafeteria,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E9%A3%9F%E5%A0%82,known
+3972,17,塩水,しおみず,Salt Water,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%A1%A9%E6%B0%B4,known
+3973,17,塩味,しおあじ,Salty Taste,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%A1%A9%E5%91%B3,known
+7700,17,愛する,あいする,To Love,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%84%9B%E3%81%99%E3%82%8B,known
+4106,18,書き方,かきかた,How To Write,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E6%9B%B8%E3%81%8D%E6%96%B9,known
+4108,18,何枚,なんまい,How Many Flat Objects,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E4%BD%95%E6%9E%9A,known
+70,3,drawer-70,,Drawer,radical,,,https://www.wanikani.com/radicals/drawer-70,known
+133,6,cyclops-133,,Cyclops,radical,,,https://www.wanikani.com/radicals/cyclops-133,known
+225,13,roof-225,,Roof,radical,,,https://www.wanikani.com/radicals/roof-225,known
+328,30,oversee,,Oversee,radical,,,https://www.wanikani.com/radicals/oversee,known
+334,31,line-up,,Line Up,radical,,,https://www.wanikani.com/radicals/line-up,known
+345,33,receive,,Receive,radical,,,https://www.wanikani.com/radicals/receive,known
+375,39,six-375,,Six,radical,,,https://www.wanikani.com/radicals/six-375,known
+8907,40,wheat,,Wheat,radical,,,https://www.wanikani.com/radicals/wheat,known
+381,41,signpost,,Signpost,radical,,,https://www.wanikani.com/radicals/signpost,known
+401,47,task-401,,Task,radical,,,https://www.wanikani.com/radicals/task-401,known
+7449,14,お疲れ様,おつかれさま,Good Work,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E3%81%8A%E7%96%B2%E3%82%8C%E6%A7%98,known
+3744,15,単語,たんご,Word,vocabulary,Initiation,0,https://www.wanikani.com/vocabulary/%E5%8D%98%E8%AA%9E,known
+1430,30,押,お,Push,kanji,,,https://www.wanikani.com/kanji/%E6%8A%BC,known
+1440,30,背,はい,Back,kanji,,,https://www.wanikani.com/kanji/%E8%83%8C,known
+8980,30,柵,さく,Fence,vocabulary,,,https://www.wanikani.com/vocabulary/%E6%9F%B5,known
+9336,30,姪,めい,Niece,vocabulary,,,https://www.wanikani.com/vocabulary/%E5%A7%AA,known
+5358,30,翌月,よくげつ,The Next Month,vocabulary,,,https://www.wanikani.com/vocabulary/%E7%BF%8C%E6%9C%88,known
+5359,30,翌朝,よくあさ,The Next Morning,vocabulary,,,https://www.wanikani.com/vocabulary/%E7%BF%8C%E6%9C%9D,known
+5360,30,翌年,よくねん,The Next Year,vocabulary,,,https://www.wanikani.com/vocabulary/%E7%BF%8C%E5%B9%B4,known
+5376,30,遊ぶ,あそぶ,To Play,vocabulary,,,https://www.wanikani.com/vocabulary/%E9%81%8A%E3%81%B6,known
+5316,30,押す,おす,To Push,vocabulary,,,https://www.wanikani.com/vocabulary/%E6%8A%BC%E3%81%99,known
+8842,30,匂う,におう,To Smell,vocabulary,,,https://www.wanikani.com/vocabulary/%E5%8C%82%E3%81%86,known
+1442,30,盗,とう,Steal,kanji,,,https://www.wanikani.com/kanji/%E7%9B%97,known
+8834,30,匂,にお,Smell,kanji,,,https://www.wanikani.com/kanji/%E5%8C%82,known
+1509,32,机,つくえ,Desk,kanji,Apprentice,1,https://www.wanikani.com/kanji/%E6%9C%BA,known
+1489,32,祖,そ,Ancestor,kanji,Apprentice,1,https://www.wanikani.com/kanji/%E7%A5%96,known
+1506,32,汚,お,Dirty,kanji,Apprentice,1,https://www.wanikani.com/kanji/%E6%B1%9A,known
+1501,32,卵,たまご,Egg,kanji,Apprentice,1,https://www.wanikani.com/kanji/%E5%8D%B5,known
+1486,32,永,えい,Eternity,kanji,Apprentice,1,https://www.wanikani.com/kanji/%E6%B0%B8,known
+496,32,久,きゅう,Long Time,kanji,Apprentice,1,https://www.wanikani.com/kanji/%E4%B9%85,known
+1511,32,訳,やく,Translation,kanji,Apprentice,1,https://www.wanikani.com/kanji/%E8%A8%B3,known
+1507,32,欲,よく,Want,kanji,Apprentice,1,https://www.wanikani.com/kanji/%E6%AC%B2,known
+5600,32,訳す,やくす,To Translate,vocabulary,,,https://www.wanikani.com/vocabulary/%E8%A8%B3%E3%81%99,known
+5589,32,欲しい,ほしい,Wanted,vocabulary,,,https://www.wanikani.com/vocabulary/%E6%AC%B2%E3%81%97%E3%81%84,known
+5595,32,机,つくえ,Desk,vocabulary,,,https://www.wanikani.com/vocabulary/%E6%9C%BA,known
+5570,32,卵,たまご,Egg,vocabulary,,,https://www.wanikani.com/vocabulary/%E5%8D%B5,known
+5497,31,探す,さがす,To Look For,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E6%8E%A2%E3%81%99,known
+5453,31,倉,くら,Storehouse,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E5%80%89,known
+5446,31,棒,ぼう,Pole,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E6%A3%92,known
+5444,31,泥,どろ,Mud,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E6%B3%A5,known
+5329,30,枕,まくら,Pillow,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E6%9E%95,known
