@@ -1,4 +1,4 @@
-item_id,level,name,reading,english_name,type,srs_stage_group,srs_stage,document_url,reason_skipped
+﻿item_id,level,name,reading,english_name,type,srs_stage_group,srs_stage,document_url,reason_skipped
 308,27,farming,,Farming,radical,,3,https://www.wanikani.com/radicals/farming,known
 309,27,rake,,Rake,radical,,3,https://www.wanikani.com/radicals/rake,known
 310,27,substitute,,Substitute,radical,,3,https://www.wanikani.com/radicals/substitute,known
@@ -285,3 +285,4 @@ item_id,level,name,reading,english_name,type,srs_stage_group,srs_stage,document_
 5446,31,棒,ぼう,Pole,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E6%A3%92,known
 5444,31,泥,どろ,Mud,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E6%B3%A5,known
 5329,30,枕,まくら,Pillow,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E6%9E%95,known
+5455,31,孫,まご,Grandchild,vocabulary,Apprentice,1,https://www.wanikani.com/vocabulary/%E5%AD%AB,known
