@@ -244,78 +244,28 @@
   https://www.wanikani.com/kanji/%E9%91%91
 
 === Level 32 ===
-35 kanji with no vocab at lesson started (SRS 1+):
+10 kanji with no vocab at lesson started (SRS 1+):
 
-久 (Long Time) [きゅう] — Apprentice 1
-  https://www.wanikani.com/kanji/%E4%B9%85
-傷 (Wound) [しょう] — lesson queue
-  https://www.wanikani.com/kanji/%E5%82%B7
-党 (Party) [とう] — lesson queue
-  https://www.wanikani.com/kanji/%E5%85%9A
-卵 (Egg) [たまご] — Apprentice 1
-  https://www.wanikani.com/kanji/%E5%8D%B5
 厳 (Strict) [げん] — not unlocked
   https://www.wanikani.com/kanji/%E5%8E%B3
 密 (Secrecy) [みつ] — not unlocked
   https://www.wanikani.com/kanji/%E5%AF%86
 序 (Preface) [じょ] — lesson queue
   https://www.wanikani.com/kanji/%E5%BA%8F
-志 (Intention) [し] — lesson queue
-  https://www.wanikani.com/kanji/%E5%BF%97
-恩 (Kindness) [おん] — lesson queue
-  https://www.wanikani.com/kanji/%E6%81%A9
 捨 (Throw Away) [す] — not unlocked
   https://www.wanikani.com/kanji/%E6%8D%A8
-採 (Gather) [さい] — lesson queue
-  https://www.wanikani.com/kanji/%E6%8E%A1
-暖 (Warm) [だん] — lesson queue
-  https://www.wanikani.com/kanji/%E6%9A%96
-机 (Desk) [つくえ] — Apprentice 1
-  https://www.wanikani.com/kanji/%E6%9C%BA
-染 (Dye) [せん] — lesson queue
-  https://www.wanikani.com/kanji/%E6%9F%93
-桜 (Sakura) [さくら] — lesson queue
-  https://www.wanikani.com/kanji/%E6%A1%9C
-欲 (Want) [よく] — Apprentice 1
-  https://www.wanikani.com/kanji/%E6%AC%B2
-永 (Eternity) [えい] — Apprentice 1
-  https://www.wanikani.com/kanji/%E6%B0%B8
-汚 (Dirty) [お] — Apprentice 1
-  https://www.wanikani.com/kanji/%E6%B1%9A
-液 (Fluid) [えき] — lesson queue
-  https://www.wanikani.com/kanji/%E6%B6%B2
-眼 (Eyeball) [がん] — lesson queue
-  https://www.wanikani.com/kanji/%E7%9C%BC
-祖 (Ancestor) [そ] — Apprentice 1
-  https://www.wanikani.com/kanji/%E7%A5%96
 秘 (Secret) [ひ] — not unlocked
   https://www.wanikani.com/kanji/%E7%A7%98
-績 (Achievement) [せき] — lesson queue
-  https://www.wanikani.com/kanji/%E7%B8%BE
 興 (Interest) [きょう] — not unlocked
   https://www.wanikani.com/kanji/%E8%88%88
-衛 (Defense) [えい] — lesson queue
-  https://www.wanikani.com/kanji/%E8%A1%9B
-複 (Duplicate) [ふく] — lesson queue
-  https://www.wanikani.com/kanji/%E8%A4%87
-訳 (Translation) [やく] — Apprentice 1
-  https://www.wanikani.com/kanji/%E8%A8%B3
-賛 (Agree) [さん] — Apprentice 1
-  https://www.wanikani.com/kanji/%E8%B3%9B
 込 (Into) [こ] — lesson queue
   https://www.wanikani.com/kanji/%E8%BE%BC
 迎 (Welcome) [げい] — not unlocked
   https://www.wanikani.com/kanji/%E8%BF%8E
 酸 (Acid) [さん] — not unlocked
   https://www.wanikani.com/kanji/%E9%85%B8
-銭 (Coin) [せん] — lesson queue
-  https://www.wanikani.com/kanji/%E9%8A%AD
 雑 (Random) [ざつ] — lesson queue
   https://www.wanikani.com/kanji/%E9%9B%91
-飼 (Domesticate) [か] — lesson queue
-  https://www.wanikani.com/kanji/%E9%A3%BC
-騙 (Trickery) [だま] — lesson queue
-  https://www.wanikani.com/kanji/%E9%A8%99
 
 === Level 33 ===
 34 kanji with no vocab at lesson started (SRS 1+):
@@ -2381,4 +2331,4 @@
 醜 (Ugly) [しゅう] — not unlocked
   https://www.wanikani.com/kanji/%E9%86%9C
 
-Total across levels 1–60: 1113 kanji missing vocab coverage.
+Total across levels 1–60: 1088 kanji missing vocab coverage.
